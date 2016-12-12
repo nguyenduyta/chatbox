@@ -1,0 +1,6 @@
+== CHATBOX
+
+Chatbox is a chat application implemented in rails using private_pub gem for near-realtime instant chat.
+
+=== Contributing
+Feel free to clone the app, make improvements on it and submit a PR ;-)
